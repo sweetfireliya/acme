@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"StyleSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "values/design.txt",
+			"settings":
+			{
+				"buffer_size": 299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<html lang=\"en-us\">\n <head>\n \t<title>ACME - Home</title>\n\n \t<meta name=\"Author\" \n \t\t  content=\"Liyakhath A. Syed\" />\n \t<meta name=\"Organisation\"\n \t\t  content=\"ACME\" />\n\n \t<meta charset=\"UTF-8\">\n    <meta name=\"viewport\"\n    \t  content=\"width=device-width,initial-scale=1\">\n    \t  \n\n    <link rel=\"stylesheet\"\n    \t  href=\"css/base.css\" />\n\n    <link href=\"https://fonts.googleapis.com/css?family=Roboto\"\n    \t  rel=\"stylesheet\">\n\n  </head>\n\n\n </head>\n\n<body><div class=\"cBodyWrapper\">\n\n\n\n</div></body>\n</html>",
+			"file": "src/index.html",
+			"file_size": 547,
+			"file_write_time": 131516063203537460,
+			"settings":
+			{
+				"buffer_size": 525,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/soft/acme",
+		"/D/soft/acme/node_modules"
+	],
+	"file_history":
+	[
+		"/D/soft/acme/c-material-components-web.scss",
+		"/D/soft/acme/node_modules/c-material-components-web.scss",
+		"/D/soft/acme/src/css/base.css",
+		"/D/soft/acme/assets/custom-css/c-material-components-web.scss",
+		"/D/soft/acme/src/css/material-components-web.css",
+		"/D/soft/acme/package.json",
+		"/D/soft/tinkerbell-native/App.js",
+		"/D/soft/tinkerbell-native/Pages/Login/Login.js",
+		"/D/soft/tinkerbell-native/Pages/Splash/Splash.js",
+		"/D/soft/tinkerbell-native/README.md"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "values/design.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "acme.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

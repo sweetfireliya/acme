@@ -1,0 +1,26 @@
+{
+  "name": "acme",
+  "version": "0.0.1",
+  "description": "acme website/app for vidyanikethan",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('working apparently');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetfireliya/acme.git"
+  },
+  "keywords": [
+    "acme",
+    "vidyanikethan"
+  ],
+  "author": "Liyakhath A. Syed",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sweetfireliya/acme/issues"
+  },
+  "homepage": "https://github.com/sweetfireliya/acme#readme",
+  "dependencies": {
+    "muicss": "^0.9.27"
+  }
+}

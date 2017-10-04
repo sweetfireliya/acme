@@ -1,0 +1,12 @@
+primary color:#fafafa
+	light:#ffffff
+	dark:#c7c7c7
+
+secondary color:#1976d2
+	light:#63a4ff
+	dark:#004ba0
+
+text on primary: #1976d2
+text on secondary: #ffffff
+
+color tool url: https://material.io/color/#!/?view.left=0&view.right=0&secondary.color=1976D2&primary.color=FAFAFA&primary.text.color=1976D2
