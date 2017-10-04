@@ -21,13 +21,10 @@
 			}
 		},
 		{
-			"contents": "<!DOCTYPE HTML>\n<html lang=\"en-us\">\n <head>\n \t<title>ACME - Home</title>\n\n \t<meta name=\"Author\" \n \t\t  content=\"Liyakhath A. Syed\" />\n \t<meta name=\"Organisation\"\n \t\t  content=\"ACME\" />\n\n \t<meta charset=\"UTF-8\">\n    <meta name=\"viewport\"\n    \t  content=\"width=device-width,initial-scale=1\">\n    \t  \n\n    <link rel=\"stylesheet\"\n    \t  href=\"css/base.css\" />\n\n    <link href=\"https://fonts.googleapis.com/css?family=Roboto\"\n    \t  rel=\"stylesheet\">\n\n  </head>\n\n\n </head>\n\n<body><div class=\"cBodyWrapper\">\n\n\n\n</div></body>\n</html>",
 			"file": "src/index.html",
-			"file_size": 547,
-			"file_write_time": 131516063203537460,
 			"settings":
 			{
-				"buffer_size": 525,
+				"buffer_size": 967,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "index.html"
@@ -79,10 +76,14 @@
 	"expanded_folders":
 	[
 		"/D/soft/acme",
-		"/D/soft/acme/node_modules"
+		"/D/soft/acme/assets",
+		"/D/soft/acme/assets/css",
+		"/D/soft/acme/values"
 	],
 	"file_history":
 	[
+		"/D/soft/acme/assets/css/cmui.scss",
+		"/D/soft/acme/assets/css/mui.scss",
 		"/D/soft/acme/c-material-components-web.scss",
 		"/D/soft/acme/node_modules/c-material-components-web.scss",
 		"/D/soft/acme/src/css/base.css",
@@ -143,8 +144,8 @@
 						"selection":
 						[
 							[
-								299,
-								299
+								104,
+								97
 							]
 						],
 						"settings":
@@ -164,15 +165,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 525,
+						"buffer_size": 967,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								355,
-								355
+								895,
+								895
 							]
 						],
 						"settings":
@@ -181,7 +182,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
