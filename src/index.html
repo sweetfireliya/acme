@@ -12,15 +12,17 @@
     	  content="width=device-width,initial-scale=1">
     	  
     <link rel="stylesheet"
-    	  href="css/cmui.css" />
+    	  href="css/cmui.css" /> 
     <link rel="stylesheet"
     	  href="css/base.css" />
+    <link rel="stylesheet"
+        href="css/reSiMenu.css" />
+   	<!-- <link href="//cdn.muicss.com/mui-0.9.27/css/mui.min.css" rel="stylesheet" type="text/css" />-->
 
     <link href="https://fonts.googleapis.com/css?family=Roboto"
     	  rel="stylesheet">
-  	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" 
-  		  rel="stylesheet"
-  		  type="text/css" />
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    	  rel="stylesheet">
   	<link href="//cdn.muicss.com/mui-0.9.27/extra/mui-colors.min.css"
   		  rel="stylesheet"
   		  type="text/css" />
@@ -32,7 +34,151 @@
 
 <body><div class="cBodyWrapper">
 
+   <div id="sidedrawer" class="mui--no-user-select">
+      <div id="sidedrawer-brand" class="mui--appbar-line-height">
+        <div class="mui-panel" id="user-avatar">
+          <!-- content --><br /><br />
+        </div>
+        <span class="mui--text-title">Liyakhath</span>
+      </div>
+      <div class="mui-divider"></div>
+      <ul>
+
+        <li>
+          <strong>
+            <i class="material-icons micon">home</i>
+            <span> Home</span>
+          </strong>
+        </li>
+
+        <li>
+          <strong>
+            <i class="material-icons micon">face</i>
+            <span> User Portal</span>
+            <span class="mui-caret"></span>
+          </strong>
+          <ul>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Register</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>
+            <i class="material-icons micon">pan_tool</i>
+            <span> Activities</span>
+            <span class="mui-caret"></span>
+          </strong>
+          <ul>
+            <li><a href="#">Test Archives</a></li>
+            <li><a href="#">Programs</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>
+            <i class="material-icons micon">notifications</i>
+            <span> Notifications</span>
+          </strong>
+        </li>
+        <li>
+          <strong>
+            <i class="material-icons micon">attach_money</i>
+            <span> Donate</span>
+          </strong>
+        </li>
+
+      </ul>
+    </div>
+    <header id="header">
+      <div class="mui-appbar mui--appbar-line-height mui--z1">
+        <div class="mui-container-fluid">
 
 
+          <table width="100%">
+            <tr style="vertical-align:middle;">
+              <td class="mui--appbar-height">
+                <a class="sidedrawer-toggle mui--visible-xs-inline-block mui--visible-sm-inline-block js-show-sidedrawer">
+                  <i class="material-icons  mui--color-blue-700">menu</i>
+                </a>
+                <a class="sidedrawer-toggle mui--hidden-xs mui--hidden-sm js-hide-sidedrawer">
+                  <i class="material-icons  mui--color-blue-700">menu</i>
+                </a>
+
+              </td>
+              <td class="mui--appbar-height" align="center">
+                <span float="center" class="">
+                  <img src="img/acme-logo.png" class="mui--appbar-height"  style="vertical-align:middle" />
+                </span>
+              </td>
+              <td class="mui--appbar-height" align="right">
+                <span float="center" class=" mui--color-blue-700">
+                   <i class="material-icons  mui--color-blue-700">help</i>
+                </span>
+              </td>
+            </tr>
+          </table>
+
+        </div>
+      </div>
+    </header>
+    <div id="content-wrapper">
+      <div class="mui--appbar-height"></div>
+      <div class="mui-container-fluid">
+        <br>
+        <h4>Users Portal</h4>
+
+         <div class="mui-row">
+          <div class="mui-col-md-2"></div>
+          <div class="mui-col-md-8">
+            
+        <div class="mui-panel">
+
+          <form class="mui-form">
+            <legend>please login</legend>
+
+              <div class="mui-textfield">
+                <input type="text" placeholder="rollno" class=" mui--color-blue-700">
+              </div>
+              <div class="mui-textfield">
+                <input type="password" placeholder="password" class=" mui--color-blue-700">
+              </div>
+
+              <button class="mui-btn mui-btn--raised mui-btn--accent">Login</button>  
+          </form>
+
+        </div>
+
+
+          </div>
+          <div class="mui-col-md-2"></div>
+        </div>
+
+      </div>
+    </div><br /><br /><br /><br /><br /><br /><br /><br />
+    <footer id="footer">
+      <div style="  text-align:center;" class="mui-container-fluid">
+        <br />
+        Made with ♥ by ACME Team.
+        <br /><br /><br />
+      </div>
+
+<div class="mui-container-fluid">
+  <div class="mui-row">
+    <div class="mui-col-md-6">Feedback</div>
+
+  </div>
+    <div class="mui-row">
+    <div class="mui-col-md-6">About Us</div>
+
+  </div>
+    <div class="mui-row">
+
+    <div class="mui-col-md-6">Contact Us</div>
+  </div>
+</div>
+
+
+    </footer>
+
+<script src="js/reSiMenu.js"></script>
 </div></body>
 </html>
