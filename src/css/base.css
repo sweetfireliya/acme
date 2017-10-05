@@ -6,3 +6,16 @@
 
 }
 
+ #user-avatar {
+
+ 	margin-right:20px;
+ 	margin-top:20px;
+ 	border-radius:20px;
+}
+
+.micon {
+
+	position: relative;
+	top:6px;
+	padding:5px;
+}
